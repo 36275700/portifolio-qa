@@ -1,0 +1,22 @@
+# BUG-003 — Imagens dos produtos exibem cachorro ao invés dos produtos
+
+**Severidade:** Alta
+**Prioridade:** Alta
+**Status:** Aberto
+**Ambiente:** SauceDemo · Chrome · Windows 11
+
+## Passos para reproduzir
+1. Acessar https://www.saucedemo.com
+2. Fazer login com problem_user / secret_sauce
+3. Observar a página de produtos
+
+## Resultado esperado
+Imagens dos produtos exibidas corretamente
+
+## Resultado obtido
+Todas as imagens substituídas por foto de
+buldogue com bolinha de tênis na boca
+
+## Impacto
+Alto — em e-commerce real causaria compras
+erradas e perda de confiança do cliente.
